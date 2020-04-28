@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ImJustAsher/natours/issues"
   },
-  "homepage": "https://github.com/ImJustAsher/natours#readme"
+  "homepage": "https://github.com/ImJustAsher/natours#readme",
+  "devDependencies": {
+    "concat": "^1.0.3"
+  }
 }
